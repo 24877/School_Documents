@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'SuperMarioBros';
+	src: url('./SuperMarioBros.eot');
+	src: local('SuperMarioBros'), url('./SuperMarioBros.woff') format('woff'), url('./SuperMarioBros.ttf') format('truetype');
+}
+body {
+	font-family: 'SuperMarioBros' !important;
+}
+
+
+
+#feedback {
+  height: 100px;
+  width: 100px;
+}
+
+#head {
+  font-size: 65px;
+}
+
+#myAssignment {
+  font-size: 45px;
+}
+
+#myAnswer {
+
+}
+
+body {
+  text-align: center;
+  background-color: yellow;
+}
